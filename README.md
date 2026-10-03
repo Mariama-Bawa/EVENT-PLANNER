@@ -22,4 +22,4 @@ Framework IA : LangChain / LangGraph, OpenAI (GPT-4o)
 
 Données (Mock Data) : Base JSON structurée (stadium_tickets.json, train_tickets.json, flight_tickets.json)
 
-Gestion de version : Git & GitHub (MonEVENT-PLANNER)
+Gestion de version : Git 
