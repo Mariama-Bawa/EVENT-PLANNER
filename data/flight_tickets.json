@@ -1,0 +1,5 @@
+[
+  {"flight_id": "FL-201", "departure_city": "Nice", "arrival_city": "Paris", "departure_time": "2026-11-15T10:30:00", "duration_minutes": 90, "airline": "Air France", "price": 95.0, "available_seats": 5},
+  {"flight_id": "FL-202", "departure_city": "Toulouse", "arrival_city": "Paris", "departure_time": "2026-11-15T09:15:00", "duration_minutes": 85, "airline": "EasyJet", "price": 60.0, "available_seats": 7},
+  {"flight_id": "FL-203", "departure_city": "Lille", "arrival_city": "Marseille", "departure_time": "2026-11-25T11:00:00", "duration_minutes": 105, "airline": "Volotea", "price": 85.0, "available_seats": 4}
+]

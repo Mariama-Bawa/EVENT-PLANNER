@@ -1,0 +1,6 @@
+[
+  {"train_id": "TR-101", "departure_city": "Lyon", "arrival_city": "Paris", "departure_time": "2026-11-15T08:00:00", "duration_minutes": 120, "price": 45.0, "available_seats": 12},
+  {"train_id": "TR-102", "departure_city": "Marseille", "arrival_city": "Paris", "departure_time": "2026-11-15T09:00:00", "duration_minutes": 200, "price": 65.0, "available_seats": 8},
+  {"train_id": "TR-103", "departure_city": "Paris", "arrival_city": "Lyon", "departure_time": "2026-11-20T10:00:00", "duration_minutes": 120, "price": 50.0, "available_seats": 15},
+  {"train_id": "TR-104", "departure_city": "Paris", "arrival_city": "Marseille", "departure_time": "2026-11-25T07:30:00", "duration_minutes": 200, "price": 70.0, "available_seats": 10}
+]

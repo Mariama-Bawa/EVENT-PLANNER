@@ -1,0 +1,31 @@
+[
+  {
+    "match_id": "ST-01",
+    "teams": "PSG vs OM",
+    "city": "Paris",
+    "date": "2026-11-15",
+    "seats": [
+      {"seat_id": "A12", "category": "VIP", "price": 150.0, "status": "available"},
+      {"seat_id": "B05", "category": "Tribune Nord", "price": 60.0, "status": "available"}
+    ]
+  },
+  {
+    "match_id": "ST-02",
+    "teams": "OL vs ASSE",
+    "city": "Lyon",
+    "date": "2026-11-20",
+    "seats": [
+      {"seat_id": "C10", "category": "Virage Sud", "price": 40.0, "status": "available"},
+      {"seat_id": "A01", "category": "VIP", "price": 120.0, "status": "available"}
+    ]
+  },
+  {
+    "match_id": "ST-03",
+    "teams": "OM vs Monaco",
+    "city": "Marseille",
+    "date": "2026-11-25",
+    "seats": [
+      {"seat_id": "M02", "category": "Ganay", "price": 55.0, "status": "available"}
+    ]
+  }
+]
