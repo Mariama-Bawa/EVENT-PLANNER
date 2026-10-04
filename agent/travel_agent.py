@@ -1,12 +1,12 @@
-from langchain_community.chat_models import ChatOpenAI
+from langchain_ollama import ChatOllama
 from langchain.agents import create_openai_functions_agent, AgentExecutor
 from langchain_core.prompts import ChatPromptTemplate
 from tools.stadium_tools import search_stadium_tickets
 from tools.transport_tools import search_transport_options
 from tools.booking_tools import book_ticket
 
-def get_travel_agent(api_key: str):
-    llm = ChatOpenAI(model="gpt-4o", openai_api_key=api_key, temperature=0.2)
+def get_travel_agent():
+    llm = ChatOllama(model="mistral", temperature=0)
     tools = [search_stadium_tickets, search_transport_options, book_ticket]
     
     prompt = ChatPromptTemplate.from_messages([
