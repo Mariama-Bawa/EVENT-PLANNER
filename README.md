@@ -1,5 +1,6 @@
 
 AI agentique (OLLAMA), Décembre 2025
+
 I-Mise en contexte
 Dans le cadre de ma formation en Ingénierie Data Science et Cloud Computing à l'ENSA Oujda qui nous a permis de suivre une formation avec monsieur Souissi sur "l'initiation à l'IA agentique", ce projet vise à développer un Agent IA conversationnel autonome appliqué au secteur du transport et de la billetterie événementielle en France.
 
