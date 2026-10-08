@@ -21,7 +21,7 @@ Réservation multi-services automatisée : Mise à jour en temps réel des dispo
 IV-Fiche Technique (Tech Stack)
 Langage : Python 3.10+
 
-Framework IA : LangChain / LangGraph, OpenAI (GPT-4o)
+Framework IA : LangChain / LangGraph, Ollama
 
 Données (Mock Data) : Base JSON structurée (stadium_tickets.json, train_tickets.json, flight_tickets.json)
 
